@@ -3,9 +3,8 @@
 // @namespace https://github.com/Strikeless
 // @version 1.2.1
 // @description Trick Songsterr to unlock plus features.
-// @license The Unlicense
-// @supportURL https://github.com/Strikeless/SongsterrPlusPatcher
-// @match http*://*.songsterr.com/*
+// @downloadURL https://github.com/Strikeless/SongsterrPlusPatcher
+// @match *://*.songsterr.com/*
 // @run-at document-start
 // @grant unsafeWindow
 // ==/UserScript==
